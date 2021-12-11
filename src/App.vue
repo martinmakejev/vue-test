@@ -134,6 +134,7 @@ li a:hover {
   padding: 10px;
   text-align: center;
   background-color: #f1f1f1;
+  margin-bottom: 1rem;
 }
  .column {
    margin-top: 1rem;
