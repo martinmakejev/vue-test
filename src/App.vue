@@ -146,6 +146,7 @@ li a:hover {
  .img {
    margin-top: 1rem;
    margin-bottom: 1rem;
+   border-radius: 1.5%;
  }
 
 </style>
